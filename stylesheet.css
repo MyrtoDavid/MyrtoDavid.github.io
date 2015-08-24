@@ -24,6 +24,6 @@ h1 {
 	font-family: Tahoma;
 }
 
-.main {
-	font-style: italic;
+.mail {
+	font-variant: small-caps;
 }
