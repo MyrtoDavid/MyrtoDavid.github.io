@@ -19,3 +19,7 @@ border-style: double;
 border-width: 10px;
 border-color: yellow;
 }
+
+h1 {
+	font-family: Times;
+}
