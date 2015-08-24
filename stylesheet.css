@@ -23,3 +23,7 @@ border-color: yellow;
 h1 {
 	font-family: Tahoma;
 }
+
+.main {
+	font-weight: bold;
+}
